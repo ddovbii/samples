@@ -41,3 +41,4 @@ applications:
 
 debugging:
   bastion_availability: enabled-on
+  direct_access: on
